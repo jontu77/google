@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.clearfix::after{
+    content: "";
+    display: black;
+    clear: both;
+}
+
+/***********Header-area******/
+
+.box-area {
+    margin: 30px auto auto;;
+    height: 531px;
+    width: 717px;
+    border: 1px solid rgb(209, 203, 203);
+    border-radius: 5px;
+    background-color: rgb(250, 248, 248)(233, 230, 230);
+}
+.box-area .login-area {
+    width: 54%;
+    background-color: rgb(246, 246, 250)239, 239, 240);
+    float: left;
+    margin-left: 38px;
+    margin-top: 11px;
+}
+.box-area .right-area {
+    width: 40%;
+    background: rgb(255, 255, 255);
+    float: right;
+}
+
+.login-area img {
+    width: 74px;
+    height: auto;;
+    margin-top: 42px
+}
+.login-area .login {
+    margin: 10px 0px 29px 0px;
+    font-size: 20px;
+}
+
+
+.box {
+    width: 100%;
+}
+.sign-up {
+    width: 60%;
+    float: left;
+    margin-left: ;
+}
+.logo-area {
+    width: 40%;
+    float: right;
+    margin: none;
+}
+.header-logo img {
+    width: 82px;
+    height: auto;
+    margin-top: 56px;
+    margin-bottom: 5px;
+}
+.header-logo h4 {
+    font-size: 21px;
+    font-family: arial;
+    font-weight: 400;
+    padding: 6px 0px 20px 0px;
+}
+.box-area input {
+    height: 29px;
+    width: 149px;
+    padding: 0px 0px 4px 11px;
+    margin-right: 12px;
+    border: 1px solid #D1D1D1;
+    border-radius: 5px;
+    color: #626262;
+    font-family: arial;
+    font-weight: 400;
+    font-size: 15px;
+}
+.box-area .jontu1 {
+    width: 334px;
+    margin: 23px 0px 0px;
+}
+.jontu3 {
+    margin: 20px 0 10px;
+        margin-right: 0px;
+}
+.box-area jontu9 {
+    font-family: arial;
+    font-weight: 600;
+    font-size: 13px;
+    margin: 9px 0px 12px;
+    color: #393939;
+}
+.box-area p {
+    font-family: arial;
+    font-weight: 600;
+    font-size: 13px;
+    margin: 9px 0px 0px;
+    color: #393939;
+}
+.box-area .jontu2 {
+    list-style: none;
+    margin: 1px 7px 13px 2px;
+    padding: 23px 12px 0px -3px;
+}
+.box-area a {
+    font-family: arial;
+    font-weight: 600;
+    font-size: 15px;
+    margin: 9px 0px 6px;
+    color: #0679f4;
+    list-style: none;
+    margin: 4px 2px 0px 0px;
+    text-decoration: none;;
+
+}
+.sign-up .jontu3 {
+    margin: 23px 0px 11px 3px;
+}
+.sign-up .jontu4 {
+    padding: 3px 0px 0px;
+}
+
+.next-area {
+    margin: 43px 0px 0px;
+}
+.next-area a {
+    margin: 59px 92px 0px 0px !important;
+    text-decoration: none;;
+    border-radius: 5px;;
+}
+.right-area img {
+    height: auto;
+    width: 499px;
+    margin: 107px -1px 33px -100px;
+}
+
+.jontu5 {
+    padding: 10px 32px 10px 33px;
+    background: #0679f4;
+}
+.jontu5 a {
+    color: #fff;
+}
+.box3 {
+    float: right;
+}
+.box3 a {
+    color: #fff;
+    text-decoration: none;
+}
+.box3 a:hover {
+    background: #0764c7;
+    ;
+}
+
+
+/**** Footer-area ****/
+
+.box2-area {
+    margin:  auto;
+    height: 53px;
+    width: 717px;
+    border:; 
+    margin-top: 10px;
+}
+.box2-area .left-area {
+    width: 60%;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+.box2-area .right-area {
+    width: 40%;
+    float: right;
+    margin-right: -92px;
+    font-weight: 600;
+}
+.box2-area .left-area select {
+    font-size: 14px;
+    border: none;
+}
+.box2-area .right-area ul li a {
+    font-size: 12px;
+    margin-left: 21px;
+    text-decoration: none;
+    color: rgb(145, 145, 145)
+}
+
+ul li {
+    display: inline-block;
+}
